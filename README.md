@@ -11,7 +11,7 @@ https://mail.google.com/mail/u/0/#inbox?compose=new)
 
 ![Maiko Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=maikodouglas&show_icons=true&theme=tokyonight)
 
-## Conhecimentos Técnicos 💡
+## Hardskills 💡
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
