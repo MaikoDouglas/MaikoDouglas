@@ -1,12 +1,22 @@
-Olá, 👋🏽
+### Olá ! Eu sou o Maiko Douglas 👋🏾
 
-Eu sou o Maiko Douglas,
+Sou um entusiasta em Analise de Dados e recentemente graduado em Ciências de Dados. 
 
+Tenho um perfil focado, organizado, comunicativo e analítico, sempre em busca de oportunidades para aplicar minha paixão pela análise de dados e extrair insights valiosos.
 
-Sou um entusiasta em Analise de Dados e atualmente estudo Ciências de Dados na Universidade Cruzeiro do Sul. Tenho um perfil focado, organizado, comunicativo e analítico, sempre em busca de oportunidades para aplicar minha paixão pela análise de dados e extrair insights valiosos.
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maiko-douglas-721584216/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](
+https://mail.google.com/mail/u/0/#inbox?compose=new)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://app.powerbi.com/view?r=eyJrIjoiZjk4ZDMwMjUtZGE5NS00M2JjLTkxZjYtZGY3YTU4NmMxOTUxIiwidCI6ImE0ZWRkNDQyLWIxOGEtNDc5Yy1iMzNjLWE1NjI2Y2JmZjA2MiJ9)
 
-Minha trajetória profissional até agora foi marcada por experiências desafiadoras e gratificantes. Atuei como Assistente Administrativo e Assistente de Compras, onde desenvolvi habilidades cruciais de organização e gestão de informações. Logo após esse período, trabalhei como Analista de Estoque, nos quais aprendi a extrair informações significativas para otimizar processos e tomar decisões assertivas.
+![Maiko Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=maikodouglas&show_icons=true&theme=tokyonight)
 
-No entanto, meu verdadeiro interesse reside na análise de dados e na utilização de ferramentas como Power BI, Excel e SQL para transformar números em insights acionáveis. Estou constantemente buscando aprimorar minhas habilidades técnicas e expandir meu conhecimento no mundo dos dados.
+## Conhecimentos Técnicos 💡
 
-Meu objetivo é aplicar essa paixão pela análise de dados em um ambiente dinâmico e colaborativo, onde eu possa contribuir efetivamente para o sucesso da equipe e da organização.
+<div style="display: inline_block"><br/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img align="center" alt="html5" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+<img align="center" alt="html5" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img align="center" alt="html5" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img align ="center" alt="html5" src= "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</div>
